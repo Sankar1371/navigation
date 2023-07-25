@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">punk</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDJn1CuMXbL7yHEiU7A3lfBCnlBrQnhkmQ</string>
+</resources>
